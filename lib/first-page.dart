@@ -132,7 +132,7 @@ class MyFirstPageState extends State<MyFirstPage> {
                       //The border property is what makes a outlined
                       //textformfield instead of a filled one.
                       //border: OutlineInputBorder(),
-                      icon: Icon(Icons.email),
+                      icon: Icon(Icons.timelapse),
                       labelText: 'name',
                       helperText: 'min 1, max 20',
                       suffixIcon: Icon(

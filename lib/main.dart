@@ -13,8 +13,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      scaffoldMessengerKey:
-          scaffoldMessengerKey,
+      scaffoldMessengerKey: scaffoldMessengerKey,
       title: 'A2 - User Input',
       debugShowCheckedModeBanner: false,
       home: MyFirstPage(),
